@@ -1,0 +1,111 @@
+.card {
+    width: 350px;
+    background-color: #efefef;
+    border: none;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+.icon-large {
+    font-size: 35px; /* Adjust the font size as needed */
+    
+  }
+
+.containers {
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #058AC4;
+    min-height: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    width: 100%;
+}
+
+.image img {
+    transition: all 0.5s
+}
+
+
+.btnss {
+    height: 140px;
+    width: 140px;
+    border-radius: 50%
+}
+
+.name {
+    font-size: 22px;
+    font-weight: bold
+}
+
+.idd {
+    font-size: 14px;
+    font-weight: 600
+}
+
+.idd1 {
+    font-size: 12px
+}
+
+.number {
+    font-size: 22px;
+    font-weight: bold
+}
+
+.follow {
+    font-size: 12px;
+    font-weight: 500;
+    color: #444444
+}
+
+.btn1 {
+    height: 40px;
+    width: 150px;
+    border: none;
+    background-color: #000;
+    color: #aeaeae;
+    font-size: 15px
+}
+
+.text span {
+    font-size: 13px;
+    color: #545454;
+    font-weight: 500
+}
+
+.containers {
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+   
+
+    height: 100%;
+}
+.social-links a {
+    display: inline-block;
+    margin: 0 10px;
+    font-size: 24px;
+    color: #333; /* Default color */
+    text-decoration: none;
+    transition: color 0.3s; /* Add a smooth color transition on hover */
+}
+
+/* Define the hover styles for the social links */
+.social-links a:hover {
+    color: #007bff !important;
+}
+.icons i {
+    font-size: 19px
+}
+
+hr .new1 {
+    border: 1px solid
+}
+
+.join {
+    font-size: 14px;
+    color: #a0a0a0;
+    font-weight: bold
+}
+
+.date {
+    background-color: #ccc
+}

@@ -1,0 +1,18 @@
+/* MUI CSS Code */
+
+.MuiPagination-ul {
+  justify-content: center;
+}
+
+.black-bold-text {
+  color: #444444;
+  margin: 15px 0 0 0;
+  font-size: 26px;
+}
+
+.text-cols{
+  color:"black"
+}
+.wa-business-description::before {
+  content: "Typically replies within a minute";
+}
